@@ -1,8 +1,6 @@
 package loops;
 
-import java.util.Scanner;
-
-public class while_dowhile {
+public class WhileDoWhile {
 
     //while loop
     public static void main(String[] args) {
